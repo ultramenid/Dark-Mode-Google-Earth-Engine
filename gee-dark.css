@@ -8,6 +8,7 @@
 @homepageURL https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine
 @supportURL https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine/issues
 @license unlicense
+@preprocessor stylus
 ==/UserStyle== */
 
 @-moz-document domain("code.earthengine.google.com"){
