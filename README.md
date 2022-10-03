@@ -1,4 +1,4 @@
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20%20with-Stylus-00adad.svg?style=for-the-badge&logo=stylus)](https://userstyles.world/api/style/6744.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20%20with-Stylus-00adad.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/gee-dark.user.css)
 
 # Darker Theme for Google Earth Engine code editor
 
@@ -11,7 +11,7 @@ A darker theme for gee code editor
 
 1. Install **Stylus Extension** [for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [for Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
 
-2. Install theme: [Click to install with Stylus](https://userstyles.world/api/style/6744.user.css) 
+2. Install theme: [Click to install with Stylus](https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/gee-dark.user.css) 
 
 ## Settings
 
