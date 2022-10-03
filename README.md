@@ -1,4 +1,4 @@
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20%20with-Stylus-00adad.svg?style=for-the-badge&logo=stylus)](https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine/blob/main/gee-dark.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20%20with-Stylus-00adad.svg?style=for-the-badge&logo=stylus)](https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/gee-dark.css)
 
 # Darker Theme for Google Earth Engine code editor
 
