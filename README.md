@@ -11,7 +11,7 @@ A darker theme for gee code editor
 
 1. Install **Stylus Extension** [for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [for Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
 
-2. Install theme: [Click to install with Stylus](https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine/blob/main/gee-dark.css) 
+2. Install theme: [Click to install with Stylus](https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/gee-dark.css) 
 
 ## Settings
 
