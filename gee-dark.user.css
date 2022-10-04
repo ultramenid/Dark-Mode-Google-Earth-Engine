@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Google Earth Engine Dark Mode
 @namespace      github.com/openstyles/stylus
-@version        1.0.2
+@version        1.0.3
 @description    A dark mode to code editor
 @author         alichamdan
 @homepageURL https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine
@@ -306,6 +306,7 @@
     .tree-manager .tree-file:before,
     .tree-drag-clone.tree-file:before {
         background-image: url(https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/misc/new-file-svgrepo-com.svg) !important;
+        margin-top: 3px !important;
     }
 
     pre {
