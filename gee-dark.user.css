@@ -305,7 +305,7 @@
 
     .tree-manager .tree-file:before,
     .tree-drag-clone.tree-file:before {
-        background-image: url(https://www.gstatic.com/images/icons/material/system/1x/insert_drive_file_black_18dp.png);
+        background-image: url(https://raw.githubusercontent.com/ultramenid/Dark-Mode-Google-Earth-Engine/main/misc/new-file-svgrepo-com.svg) !important;
     }
 
     pre {
