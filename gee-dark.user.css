@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Google Earth Engine Dark Mode
 @namespace      github.com/openstyles/stylus
-@version        1.0.4
+@version        1.0.5
 @description    A dark mode to code editor
 @author         alichamdan
 @homepageURL https://github.com/ultramenid/Dark-Mode-Google-Earth-Engine
@@ -20,8 +20,7 @@
         --ee-legacy-blue: #16be9c;
         --ee-legacy-darkblue: #29a289;
     }
-    
-    
+ 
     .dd-catalog-open {
         background-color: #16be9c !important;
     }
@@ -46,9 +45,6 @@
     }
     
     
-    .search-textbox{
-        background: black !important;
-    }
 
     
     div ee-tab-panel ee-tab {
@@ -862,7 +858,7 @@
     }
 
     .jfk-button-standard {
-        background-color: #00000078;
+        background-color: #16be9c !important;
         background-image: -webkit-linear-gradient(top, #fbfbfb00, #ffffff00);
         background-image: -moz-linear-gradient(top, #18191a, #18191a);
         background-image: -ms-linear-gradient(top, #18191a, #18191a);
